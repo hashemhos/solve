@@ -1,3 +1,4 @@
+#Solve
 When we call billers to inquiry about customers bills we received thier response containing all bills related to the customer, and ofcourse there are different message formats used by billers, i.e. Jordan Electricity repsonsed to our bill inquiry using JSON Format, while water authority responsed using XML format, and we have to validate the response for :
 - Following fields should exists "Bill Due Date, Amount"
 - Bill due date should not be future date.
